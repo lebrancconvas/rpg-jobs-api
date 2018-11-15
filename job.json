@@ -1,0 +1,32 @@
+[
+    {
+        "id" : "1",
+        "jobname" : "Warrior",
+        "description" : "High Performance of Strange",
+        "equipment" : [
+            "Sword",
+            "Sheild",
+            "Helmet"
+        ]
+    },
+    {
+        "id": "2",
+        "jobname": "Mage",
+        "description": "High Performance of Intelligence",
+        "equipment": [
+            "Wand",
+            "Ring",
+            "Cloak"
+        ]
+    },
+    {
+        "id": "3",
+        "jobname": "Thief",
+        "description": "High Performance of Agility",
+        "equipment": [
+            "Knife",
+            "Boots",
+            "Bomb"
+        ]
+    }
+]
